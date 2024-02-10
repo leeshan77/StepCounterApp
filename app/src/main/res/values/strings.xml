@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ComposePedometer2</string>
+    <string name="step_counter">Step Counter</string>
+    <string name="obtaining_latest_step">Obtaining the latest step count...</string>
+
+    <string name="permission_prompt">Please allow access to the permissions to use this app!</string>
+    <string name="permissions_rationale">Permission is denied. Please grant access manually in settings to use this app!</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="enable_permissions">Enable permissions</string>
+    <string name="goto_settings">Go to Settings!</string>
+    <string name="Pedometer">Pedometer</string>
+    <string name="Record">Record</string>
+    <string name="Profile">Profile</string>
+
+    <!-- Notification -->
+    <string name="notification_title">Step Counter</string>
+    <string name="service_notification_content">Obtaining the realtime step count..</string>
+    <string name="worker_notification_content">Obtaining the latest step count..</string>
+
+    <!-- Ignore Battery Optimization -->
+    <string name="ignore_dialog_title">Ignore battery optimization</string>
+    <string name="ignore_dialog_text">This app needs the ability to run periodic jobs in the background.\nPlease allow it.</string>
+    <string name="ignore_dialog_confirm">OK</string>
+</resources>
