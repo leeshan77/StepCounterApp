@@ -21,4 +21,11 @@
     <string name="ignore_dialog_title">Ignore battery optimization</string>
     <string name="ignore_dialog_text">This app needs the ability to run periodic jobs in the background.\nPlease allow it.</string>
     <string name="ignore_dialog_confirm">OK</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_goal">Goal: %1$d</string>
+    <string name="settings_height">Height: %1$d</string>
+    <string name="settings_weight">Weight: %1$d</string>
+
 </resources>
